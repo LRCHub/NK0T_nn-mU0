@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "夏色 [再録]",
+  "base_artist": "ゆず",
+  "createdAt": "2026-02-20T12:12:47.748097Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "夏色 [再録] - Natsuiro Sairoku",
+      "artist": "YUZU",
+      "has_synced": true,
+      "path": "select/01_夏色_[再録]_-_Natsuiro_Sairoku_YUZU.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夏色 [再録]",
+      "artist": "ゆず",
+      "has_synced": false,
+      "path": "select/pl_01_夏色_[再録]_ゆず.txt"
+    }
+  ]
+}
